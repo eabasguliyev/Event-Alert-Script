@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "node /full/path/of/index.js " & WScript.Arguments.Item(0), 0, True
